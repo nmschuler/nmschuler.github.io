@@ -1,8 +1,20 @@
 <html>
    <head>
+      <link href="../css/bootstrap.min.css" rel="stylesheet">
+      <script src="../js/layout.js"></script>
       <title>320</title>
    </head>
-   <body>
-      <h1>320</h1>
+   <body onload="loadNavbar(); loadSidebarClasses()">
+      <div id="navMenu"></div>    <!-- Load navbar -->
+      <div class="container-fluid">
+         <div class="col-md-2">
+            <div id="sidebarClasses"></div> <!-- Load sidebar -->
+         </div>
+         <div class="col-md-10">
+            <h1>320</h1>
+            <br />
+            <p>something here about what this section is?</p>
+         </div>
+      </div>
    </body>
 </html>
