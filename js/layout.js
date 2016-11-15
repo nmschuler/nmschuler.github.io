@@ -45,10 +45,10 @@ function loadSidebarClasses(){
       '<div class="navbar navbar-static-left">' +
         '<ul class="nav navbar-stacked" style="padding-top:30px">' +
          '<h4>Subjects</h4>' +
-         '<li><a href="subjects/CompInfoSys.html">Class 1</a></li>' +
-         '<li><a href="#">Class 2</a></li>' +
-         '<li><a href="#">Class 3</a></li>' +
-         '<li><a href="#">Class 4</a></li>' +
+         '<li><a href="./subjects/CompInfoSys.html">Class 1</a></li>' +
+         '<li><a href="./subjects/DBDesign.html">Class 2</a></li>' +
+         '<li><a href="./subjects/DBSec.html">Class 3</a></li>' +
+         '<li><a href="subjects/DevProject.html">Class 4</a></li>' +
          '<li><a href="#">Class 5</a></li>' +
          '<li><a href="#">Class 6</a></li>' +
          '<li><a href="#">Class 7</a></li>' +
