@@ -11,7 +11,7 @@
 .mainbody
 {
    overflow: hidden;
-   height: 100%;
+   height: auto;
    border-left-color: #080808;
 }
 

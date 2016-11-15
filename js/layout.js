@@ -60,6 +60,10 @@ function loadSidebarClasses(){
          '<li><a href="SoftwareDev2.html">Software Dev 2</a></li>' +
          '<li><a href="SysAnalAndDesign.html">Systems Analysis & Design</a></li>' +
          '<li><a href="WebArch.html">Web Architecture</a></li>' +
+         '<br />' +
+         '<br />' +
+         '<br />' +
+         '<br />' +
         '</ul>' +
       '</div>';
    }
