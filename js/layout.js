@@ -9,7 +9,7 @@ function loadNavbar(){
                '<li class="#"><a href="about.html">About Me</a></li>' +
             '</ul>' +
             '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
-               '<li class="#"><a href="classes.html">Classes</a></li>' +
+               '<li class="#"><a href="subjects/classes.html">Classes</a></li>' +
             '</ul>' +
             '<ul class="nav navbar-nav navbar-right" style="padding-right:50px">' +
                '<li><a href="#" onclick="return false">Nick Schuler</a></li>' +
@@ -30,7 +30,7 @@ function loadNavbar(){
                   '<li class="#"><a href="../about.html">About Me</a></li>' +
                '</ul>' +
                '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
-                  '<li class="#"><a href="../classes.html">Classes</a></li>' +
+                  '<li class="#"><a href="classes.html">Classes</a></li>' +
                '</ul>' +
                '<ul class="nav navbar-nav navbar-right" style="padding-right:50px">' +
                   '<li><a href="#" onclick="return false">Nick Schuler</a></li>' +
@@ -45,20 +45,21 @@ function loadSidebarClasses(){
       '<div class="navbar navbar-static-left">' +
         '<ul class="nav navbar-stacked" style="padding-top:30px">' +
          '<h4>Subjects</h4>' +
-         '<li><a href="./subjects/CompInfoSys.html">Class 1</a></li>' +
-         '<li><a href="./subjects/DBDesign.html">Class 2</a></li>' +
-         '<li><a href="./subjects/DBSec.html">Class 3</a></li>' +
-         '<li><a href="subjects/DevProject.html">Class 4</a></li>' +
-         '<li><a href="#">Class 5</a></li>' +
-         '<li><a href="#">Class 6</a></li>' +
-         '<li><a href="#">Class 7</a></li>' +
-         '<li><a href="#">Class 8</a></li>' +
-         '<li><a href="#">Class 9</a></li>' +
-         '<li><a href="#">Class 10</a></li>' +
-         '<li><a href="#">Class 11</a></li>' +
-         '<li><a href="#">Class 12</a></li>' +
-         '<li><a href="#">Class 13</a></li>' +
-         '<li><a href="#">Class 14</a></li>' +
+         '<li><a href="classes.html">Overview</a></li>' +
+         '<li><a href="CompInfoSys.html">Computer Information Systems</a></li>' +
+         '<li><a href="DBDesign.html">Database Design</a></li>' +
+         '<li><a href="DBSec.html">Database Security</a></li>' +
+         '<li><a href="DevProject.html">Development Project</a></li>' +
+         '<li><a href="Forensics.html">Forensics</a></li>' +
+         '<li><a href="FundInfoSys.html">Fundamentals of IS</a></li>' +
+         '<li><a href="InfrastructureTech.html">Infrastructure</a></li>' +
+         '<li><a href="IntroInfoSec.html">Intro to Info Sec</a></li>' +
+         '<li><a href="MgmtInfoSys.html">Management of IS</a></li>' +
+         '<li><a href="NetworkSec.html">Network Security</a></li>' +
+         '<li><a href="SoftwareDev1.html">Software Dev 1</a></li>' +
+         '<li><a href="SoftwareDev2.html">Software Dev 2</a></li>' +
+         '<li><a href="SysAnalAndDesign.html">Systems Analysis & Design</a></li>' +
+         '<li><a href="WebArch.html">Web Architecture</a></li>' +
         '</ul>' +
       '</div>';
    }
