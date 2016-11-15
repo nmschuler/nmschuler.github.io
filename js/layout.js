@@ -55,8 +55,8 @@ function loadSidebarClasses(){
          '<h4>Subjects</h4>' +
          '<li><a href="classes.html">Overview</a></li>' +
          '<li><a href="CompInfoSys.html">Computer Information Systems</a></li>' +
-         '<li><a href="DBDesign.html">Database Design</a></li>' +
-         '<li><a href="DBSec.html">Database Security</a></li>' +
+         '<li><a href="DbDesign.html">Database Design</a></li>' +
+         '<li><a href="DbSec.html">Database Security</a></li>' +
          '<li><a href="DevProject.html">Development Project</a></li>' +
          '<li><a href="Forensics.html">Forensics</a></li>' +
          '<li><a href="FundInfoSys.html">Fundamentals of IS</a></li>' +
