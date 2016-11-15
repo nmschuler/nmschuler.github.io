@@ -12,7 +12,15 @@ function loadNavbar(){
                '<li class="#"><a href="subjects/classes.html">Classes</a></li>' +
             '</ul>' +
             '<ul class="nav navbar-nav navbar-right" style="padding-right:50px">' +
-               '<li><a href="#" onclick="return false">Nick Schuler</a></li>' +
+               '<li class="dropdown">' +
+                  '<a class="dropdown-toggle" data-toggle="dropdown">Nick Schuler' +
+                     '<b class="caret"></b></a>' +
+                  '<ul class="dropdown-menu">' +
+                     '<li><a href="mailto:nm_schuler@yahoo.com">E-Mail</a></li>' +
+                     '<li><a href="https://www.linkedin.com/in/nicholasschuler">LinkedIn</a></li>' +
+                     '<li><a href="https://github.com/nmschuler?tab=repositories">GitHub</a></li>' +
+                  '</ul>' +
+               '</li>' +
             '</ul>' +
          '</div>' +
       '</div>';
