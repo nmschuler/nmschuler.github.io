@@ -7,6 +7,15 @@
    right: 0;
 }
 
+.noscroll
+{
+   float:left;
+   max-height: 100%;
+   overflow-y: hidden;
+   width: 210px;
+   right: 0;
+}
+
 .mainbody
 {
    width:auto;
