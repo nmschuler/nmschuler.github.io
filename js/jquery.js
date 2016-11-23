@@ -10215,7 +10215,7 @@ if ( !noGlobal ) {
 
 $(document).ready(function(){
   $("a[link='#top']").on('click',function() {
-	  $("html, body").animate({ scrollTop: 150 }, "slow");
+	  $("html, body").animate({ scrollTop: $("iframe").offset().top - 30 }, "slow");
   });
 });
 
