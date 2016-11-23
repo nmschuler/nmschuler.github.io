@@ -29,9 +29,10 @@ body
    background-color: #222222;
 }
 
-h1, h2, h3, h4, h5
+h1, h2, h3, h4, h5, li a
 {
    color: white;
+   text-decoration: none;
 }
 
 a
