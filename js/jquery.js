@@ -10212,5 +10212,14 @@ if ( !noGlobal ) {
 	window.jQuery = window.$ = jQuery;
 }
 
+
+$(document).ready(function(){
+  $("a[link='#top']").on('click',function() {
+	  $("html, body").animate({ scrollTop: 150 }, "slow");
+  });
+});
+
+
+
 return jQuery;
 } );
