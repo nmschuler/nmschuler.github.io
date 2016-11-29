@@ -6,12 +6,6 @@ function loadNavbar(){
                '<li class="#"><a href="index.html">Home</a></li>' +
             '</ul>' +
             '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
-               '<li class="#"><a href="about.html">About Me</a></li>' +
-            '</ul>' +
-            '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
-               '<li class="#"><a href="subjects/classes.html">Classes</a></li>' +
-            '</ul>' +
-            '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
                '<li class="#"><a href="sections/sections.html">Sections</a></li>' +
             '</ul>' +
             '<ul class="nav navbar-nav navbar-right" style="padding-right:50px">' +
@@ -88,12 +82,6 @@ function loadSidebarClasses(){
             '<div class="collapse navbar-collapse navHeaderCollapse">' +
                '<ul class="nav navbar-nav navbar-left" style="padding-left:50px">' +
                   '<li class="#"><a href="../index.html">Home</a></li>' +
-               '</ul>' +
-               '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
-                  '<li class="#"><a href="../about.html">About Me</a></li>' +
-               '</ul>' +
-               '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
-                  '<li class="#"><a href="../subjects/classes.html">Classes</a></li>' +
                '</ul>' +
                '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
                   '<li class="#"><a href="sections.html">Sections</a></li>' +
