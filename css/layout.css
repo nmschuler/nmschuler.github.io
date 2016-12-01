@@ -66,15 +66,3 @@ iframe
 {
    color: white;
 }
-
-@media screen and (max-device-width" 480px) {
-   .noscroll
-   {
-      float:left;
-      max-height: 100%;
-      overflow-y: hidden;
-      width: 18%;
-      right: 0;
-      margin-left: -10%;
-   }
-}
