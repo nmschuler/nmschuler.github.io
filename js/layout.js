@@ -124,8 +124,8 @@ function loadSidebarClasses(){
             '<h4>Sections</h4>' +
             '<li><a href="sections.html">Overview</a></li>' +
             '<li><a href="database.html">Database</a></li>' +
-            '<li><a href="development.html">Development</a></li>' +
             '<li><a href="businessanalysis.html">Business Analysis</a></li>' +
+            '<li><a href="development.html">Development</a></li>' +
             '<li><a href="security.html">Security</a></li>' +
             '<br />' +
             '<br />' +
