@@ -7,13 +7,13 @@ function loadNavbar(){
          '<span class="icon-bar"></span>' +
          '</button>' +
          '<div class="collapse navbar-collapse navHeaderCollapse">' +
-            '<ul class="nav navbar-nav navbar-left" style="padding-left:50px">' +
+            '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
                '<li class="#"><a href="index.html">Home</a></li>' +
             '</ul>' +
             '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
                '<li class="#"><a href="sections/sections.html">Sections</a></li>' +
             '</ul>' +
-            '<ul class="nav navbar-nav navbar-right" style="padding-right:50px">' +
+            '<ul class="nav navbar-nav navbar-right" style="padding-right:50px; padding-left:15px">' +
                '<li class="dropdown">' +
                   '<a class="dropdown-toggle" data-toggle="dropdown">Nick Schuler' +
                      '<b class="caret"></b></a>' +
@@ -37,13 +37,13 @@ function loadNavbar(){
             '<span class="icon-bar"></span>' +
             '</button>' +
             '<div class="collapse navbar-collapse navHeaderCollapse">' +
-               '<ul class="nav navbar-nav navbar-left" style="padding-left:50px">' +
+               '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
                   '<li class="#"><a href="../index.html">Home</a></li>' +
                '</ul>' +
                '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
                   '<li class="#"><a href="../about.html">About Me</a></li>' +
                '</ul>' +
-               '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
+               '<ul class="nav navbar-nav navbar-left" style="padding-left:15px; padding-left:15px">' +
                   '<li class="#"><a href="classes.html">Classes</a></li>' +
                '</ul>' +
                '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
@@ -95,13 +95,13 @@ function loadSidebarClasses(){
             '<span class="icon-bar"></span>' +
             '</button>' +
             '<div class="collapse navbar-collapse navHeaderCollapse">' +
-               '<ul class="nav navbar-nav navbar-left" style="padding-left:50px">' +
+               '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
                   '<li class="#"><a href="../index.html">Home</a></li>' +
                '</ul>' +
                '<ul class="nav navbar-nav navbar-left" style="padding-left:15px">' +
                   '<li class="#"><a href="sections.html">Sections</a></li>' +
                '</ul>' +
-               '<ul class="nav navbar-nav navbar-right" style="padding-right:50px">' +
+               '<ul class="nav navbar-nav navbar-right" style="padding-right:50px; padding-left:15px">' +
                   '<li class="dropdown">' +
                      '<a class="dropdown-toggle" data-toggle="dropdown">Nick Schuler' +
                         '<b class="caret"></b></a>' +
