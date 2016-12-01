@@ -1,6 +1,11 @@
 function loadNavbar(){
    document.getElementById("navMenu").innerHTML =
       '<div class="navbar navbar-inverse navbar-static-top">' +
+         '<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">' +
+         '<span class="icon-bar"></span>' +
+         '<span class="icon-bar"></span>' +
+         '<span class="icon-bar"></span>' +
+         '</button>' +
          '<div class="collapse navbar-collapse navHeaderCollapse">' +
             '<ul class="nav navbar-nav navbar-left" style="padding-left:50px">' +
                '<li class="#"><a href="index.html">Home</a></li>' +
@@ -26,6 +31,11 @@ function loadNavbar(){
    function loadNavbarClasses(){
       document.getElementById("navMenu").innerHTML =
          '<div class="navbar navbar-inverse navbar-static-top">' +
+            '<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">' +
+            '<span class="icon-bar"></span>' +
+            '<span class="icon-bar"></span>' +
+            '<span class="icon-bar"></span>' +
+            '</button>' +
             '<div class="collapse navbar-collapse navHeaderCollapse">' +
                '<ul class="nav navbar-nav navbar-left" style="padding-left:50px">' +
                   '<li class="#"><a href="../index.html">Home</a></li>' +
@@ -79,6 +89,11 @@ function loadSidebarClasses(){
    function loadNavbarSections(){
       document.getElementById("navMenu").innerHTML =
          '<div class="navbar navbar-inverse navbar-static-top">' +
+            '<button class="navbar-toggle" data-toggle="collapse" data-target=".navHeaderCollapse">' +
+            '<span class="icon-bar"></span>' +
+            '<span class="icon-bar"></span>' +
+            '<span class="icon-bar"></span>' +
+            '</button>' +
             '<div class="collapse navbar-collapse navHeaderCollapse">' +
                '<ul class="nav navbar-nav navbar-left" style="padding-left:50px">' +
                   '<li class="#"><a href="../index.html">Home</a></li>' +
